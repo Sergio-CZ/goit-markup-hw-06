@@ -409,7 +409,6 @@ img {
 }
 .container.header-container {
   display: flex;
-  /* margin-top: 50px; */
   padding: 0 0;
 }
 
@@ -451,6 +450,14 @@ img {
   padding-top: 30px;
   margin-bottom: 10px;
   color: var(--title-color);
+  font-size: 16px;
+  line-height: 1.17;
+}
+
+.hero-iv-text {
+  margin-bottom: 16px;
+  color: var(--text-color);
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.17;
 }
@@ -526,26 +533,6 @@ img {
   justify-self: center;
   min-width: 170px;
   max-width: 170px;
-}
-
-.hero-iv-text {
-  margin-bottom: 16px;
-  color: var(--text-color);
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.17;
-}
-
-.hero-iv-soc {
-  display: flex;
-  margin-bottom: 30px;
-  width: 206px;
-  height: 44px;
-  outline: 2px solid blue;
-  background-size: contain;
-  background-position: center;
-  align-items: baseline;
-  justify-content: center;
 }
 
 footer {
