@@ -92,7 +92,7 @@ img {
 .header-link {
   display: block;
   position: relative;
-  padding: 33px 0;
+  padding: 25px 0;
   color: var(--color-blue);
   font-family: Roboto;
   font-weight: 500;
@@ -125,7 +125,7 @@ img {
 
 .header-link-web {
   display: block;
-  padding: 33px 0;
+  padding: 25px 0;
   color: var(--title-color);
   font-family: Roboto;
   font-weight: 500;
