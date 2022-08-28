@@ -44,7 +44,7 @@ ol {
   --color-button-blue: #188ce8;
 }
 
-/* Основные шрифт, цвет шр ифта и др. */
+/* Основные шр иф т, цвет шр ифта и др. */
 
 body {
   background-color: #ffffff;
@@ -407,7 +407,7 @@ img {
 .hero-iii-item:not(:last-child) {
   margin-right: 30px;
 }
-*/ .container.header-container {
+.container.header-container {
   display: flex;
   /* margin-top: 50px; */
   padding: 0 0;
