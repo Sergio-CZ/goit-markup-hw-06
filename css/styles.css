@@ -686,7 +686,6 @@ footer {
 .footer-title-mail {
   position: relative;
   margin-bottom: 20px;
-
   padding-top: 12px;
   text-align: left;
   color: var(--color-white);
@@ -725,10 +724,6 @@ footer {
   color: rgba(255, 255, 255, 0.6);
   outline-style: none;
 }
-
-
-
-
 
 
 .footer-plane-btn {
